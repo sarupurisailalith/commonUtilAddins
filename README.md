@@ -11,7 +11,7 @@ commonUtilAddins is an R package that contains a list of common utility [R Studi
 Make sure you have the latest and stable version of [devtools](https://github.com/hadley/devtools), [htmltools](https://github.com/rstudio/htmltools), [shiny](https://github.com/rstudio/shiny) and [miniUI](https://github.com/rstudio/miniUI); then install this package
 
 ```r
-devtools::install_github("sarupurisailalith/RStudioAddins")
+devtools::install_github("sarupurisailalith/commonUtilAddins")
 ```
 Once the package is installed, addins will be avaiable under the 'Addins' menu in RStudio. 
 
