@@ -1,0 +1,9 @@
+Name: Convert variable types 
+Description: Convert variable types in a data frame
+Binding: var_conv
+Interactive: false
+
+Name: Merge data frames
+Description: Merge two data frames
+Binding: df_merge
+Interactive: false
